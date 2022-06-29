@@ -10,7 +10,7 @@ let id = setInterval(draw, 10);
 let time = 35;
 let count = 0;
 let player = new Image();
-player.src = "file:///Users/hiranokoutarou/Downloads/%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84%EF%BC%91.png";
+player.src = "https://2.bp.blogspot.com/-JGH_cz6Tzwo/WKbKxiP9ByI/AAAAAAABB3I/a5XZSzqRWCgWMBLRDg6xTUY2zspSHrMZACLcB/s800/pose_hashiru_guruguru_man.png";
 let playerX = w / 2;
 let playerY = h / 2;
 
