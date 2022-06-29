@@ -10,7 +10,7 @@ let id = setInterval(draw, 10);
 let time = 35;
 let count = 0;
 let player = new Image();
-player.src = "https://2.bp.blogspot.com/-JGH_cz6Tzwo/WKbKxiP9ByI/AAAAAAABB3I/a5XZSzqRWCgWMBLRDg6xTUY2zspSHrMZACLcB/s800/pose_hashiru_guruguru_man.png";
+player.src = "https://3.bp.blogspot.com/-cTXDdMELK7c/V2FUarqspbI/AAAAAAAA7XM/KHavNdNWkTYrjUojfzZ4L1-R4gYsHKoUwCLcB/s800/fashion_parka_man.png";
 let playerX = w / 2;
 let playerY = h / 2;
 
